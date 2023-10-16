@@ -1,0 +1,2200 @@
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+-----------------------------
+Column: age
+Min: 1.00, Max: 52.00, Mean: 28.64
+
+Column: rooms
+Min: 2.00, Max: 39320.00, Mean: 2635.76
+
+Column: bedrooms
+Min: 1.00, Max: 6445.00, Mean: 537.90
+
+Column: pop
+Min: 3.00, Max: 35682.00, Mean: 1425.48
+
+Column: hh
+Min: 1.00, Max: 6082.00, Mean: 499.54
+
+Column: value
+Min: 14999.00, Max: 500001.00, Mean: 206855.82
+
+Column: income
+Min: 0.50, Max: 15.00, Mean: 3.87
+
+-----------------------------
